@@ -1,8 +1,8 @@
 # Mehul Dev
 
-# I am a student
-# I am a PenTester
-# I am a CODER
+## I am a student
+## I am a PenTester
+## I am a CODER
 
   I am a student who is currently studying in class 9. I have a dream of becoming ETHICAL HACKER and DEVELOPER to solve difficult algorithms and help several companies and want to become the powerful cyber security officer and help my country to become powerful against all countries against cyber crimes which are very common in nowadays. This website is my first step towards my dream :) 
 Let us understand the value of CODING through some definitions and explaiantion.
