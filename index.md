@@ -1,37 +1,42 @@
 ## Mehul Dev
+### I am a Student
+### I am a PenTester
+### I am a Coder
 
-You can use the [editor on GitHub](https://github.com/Blizzard1508/Mehul-Dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Ethical hacking
+Ethical hacking, also known as penetration testing or pen testing, is legally breaking into computers and devices to test an organization's defenses. It's among the most exciting IT jobs any person can be involved in. You are literally getting paid to keep up with the latest technology and get to break into computers without the threat of being arrested. 
 
-### Markdown
+## Java Programming
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA),[17] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.[18] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Web development
+Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications (Web apps), electronic businesses, and social network services
 
-```markdown
-Syntax highlighted code block
+#### Java Script
+JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Blizzard1508/Mehul-Dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Details
+>D.O.B - 10th April, 2005
+>School- Saint Thomas School
+>City- Godda
+>Pincode- 814133
+ 
+###### Skills(learning)
+1. Java
+2. C++
+3. C#
+4. HTML
+5. Javascript
+6. SQL
+7. Php
+8. Phython
 
 ### Support or Contact
+Inorder to contact me go through the following details given below.
+Email- mehuldev297@gmail.com
+Mobile No.- 8340494257, 8578888850
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Thanks for visiting my Website !
+
+##### Designed & Developed by Mehul Dev
