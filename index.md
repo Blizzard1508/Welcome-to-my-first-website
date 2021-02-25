@@ -1,9 +1,20 @@
-# Mehul Dev
-### I am a Student
-### I am a PenTester
-### I am a Coder
+<!DOCTYPE html>
+<html lang="en">
 
-I am a student who is currently studying in class 9. I have a dream of becoming ETHICAL HACKER and DEVELOPER to solve difficult algorithms and help several companies and want to become the powerful cyber security officer and help my country to become powerful against all countries against cyber crimes which are very common in nowadays. This website is my first step towards my dream :) 
+<head>
+   <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  </head>
+  
+<body>
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1 style="text-align:center;">Mehul Dev</h1>
+      <p style="text-align:center;">I'm a <span class="typed" data-typed-items="Student, PenTester, Developer"></span></p>
+    </div>
+  </section>
+  
+  I am a student who is currently studying in class 9. I have a dream of becoming ETHICAL HACKER and DEVELOPER to solve difficult algorithms and help several companies and want to become the powerful cyber security officer and help my country to become powerful against all countries against cyber crimes which are very common in nowadays. This website is my first step towards my dream :) 
 Let us understand the value of CODING through some definitions and explaiantion.
 
 # Ethical hacking
@@ -59,3 +70,6 @@ Inorder to contact me go through the following details given below.
 # Thanks for visiting my Website !
 
 ## Designed & Developed by Mehul Dev
+</body>
+
+</html>
