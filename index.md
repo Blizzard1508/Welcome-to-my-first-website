@@ -17,10 +17,10 @@ Web development is the work involved in developing a Web site for the Internet (
 JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities
 
 ##### Details
->D.O.B - 10th April, 2005
->School- Saint Thomas School
->City- Godda
->Pincode- 814133
+>D.O.B - 10th April, 2005 </br>
+>School- Saint Thomas School </br>
+>City- Godda </br>
+>Pincode- 814133 </br>
  
 ###### Skills(learning)
 1. Java
@@ -33,9 +33,9 @@ JavaScript is a dynamic computer programming language. It is lightweight and mos
 8. Phython
 
 ### Support or Contact
-Inorder to contact me go through the following details given below.
-Email- mehuldev297@gmail.com
-Mobile No.- 8340494257, 8578888850
+Inorder to contact me go through the following details given below.</br>
+Email- mehuldev297@gmail.com </br>
+Mobile No.- 8340494257, 8578888850 </br>
 
 #### Thanks for visiting my Website !
 
