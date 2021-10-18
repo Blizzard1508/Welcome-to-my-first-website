@@ -5,7 +5,7 @@
 ## I am a CODER
 
   I am a student who is currently studying in class 9. I have a dream of becoming ETHICAL HACKER and DEVELOPER to solve difficult algorithms and help several companies and want to become the powerful cyber security officer and help my country to become powerful against all countries against cyber crimes which are very common in nowadays. This website is my first step towards my dream :) 
-Let us understand the value of CODING through some definitions and explaiantion.
+Let us understand the value of CODING through some definitions and explanation.
 
 # Ethical hacking
 Ethical hacking, also known as penetration testing or pen testing, is legally breaking into computers and devices to test an organization's defenses. It's among the most exciting IT jobs any person can be involved in. You are literally getting paid to keep up with the latest technology and get to break into computers without the threat of being arrested. 
@@ -33,7 +33,7 @@ C# is a general-purpose, modern and object-oriented programming language pronoun
 Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.
 CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects.
 
-# KALI LINUX(The best operating system usully used by ETHICAL HACKERS)
+# KALI LINUX(The best operating system usually used by ETHICAL HACKERS)
 Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali Linux contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering. Kali Linux is developed, funded and maintained by Offensive Security, a leading information security training company.
 
 #  Details
@@ -50,7 +50,7 @@ Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Te
 5. Javascript
 6. SQL
 7. Php
-8. Phython
+8. Python
 
 # Support or Contact
 Inorder to contact me go through the following details given below.
